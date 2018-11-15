@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [XtraReport1.cs](./CS/WebApplication1/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/WebApplication1/XtraReport1.vb))
+<!-- default file list end -->
 # How use the Document Map to provide client-side navigation for a web report
 
 
