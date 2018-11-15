@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx.cs](./CS/WebDocumentMap/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebDocumentMap/Default.aspx.vb))
+<!-- default file list end -->
 # How use the Document Map to provide client-side navigation for a web report
 
 
