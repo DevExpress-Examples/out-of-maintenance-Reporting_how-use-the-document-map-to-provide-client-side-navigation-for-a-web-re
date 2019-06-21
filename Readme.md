@@ -4,6 +4,9 @@
 * [Default.aspx.cs](./CS/WebDocumentMap/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebDocumentMap/Default.aspx.vb))
 <!-- default file list end -->
 # How use the Document Map to provide client-side navigation for a web report
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2336)**
+<!-- run online end -->
 
 
 <p>This example illustrates the capability to provide client-side navigation for a web report.</p>
