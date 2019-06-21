@@ -4,6 +4,9 @@
 * [XtraReport1.cs](./CS/WebApplication1/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/WebApplication1/XtraReport1.vb))
 <!-- default file list end -->
 # How use the Document Map to provide client-side navigation for a web report
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2336)**
+<!-- run online end -->
 
 
 <p>This example illustrates the capability to provide client-side navigation for a web report.</p>
