@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How use the Document Map to provide client-side navigation for a web report
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2336)**
+**[[Run Online]](https://codecentral.devexpress.com/e2336/)**
 <!-- run online end -->
 
 
