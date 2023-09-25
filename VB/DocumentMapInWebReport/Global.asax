@@ -1,1 +1,0 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="DocumentMapInWebReport.Global" Language="vb" %>
